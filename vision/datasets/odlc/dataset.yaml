@@ -1,0 +1,4 @@
+path: /workspaces/UAVAmador25-26SoftwareApp/vision/datasets/odlc
+train: images/train
+val: images/val
+names: ['odlc']
